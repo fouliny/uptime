@@ -18,11 +18,11 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: "Homepage",
+      text: "Home",
       url: "https://www.siwu.cc/",
     },
     {
-      text: "nav",
+      text: "Nav",
       url: "https://www.quguge.com",
     },
     {
