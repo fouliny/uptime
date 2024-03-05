@@ -24,15 +24,7 @@ window.Config = {
   Navi: [
     {
       text: "Home",
-      url: "https://www.siwu.cc/",
-    },
-    {
-      text: "Nav",
       url: "https://www.quguge.com",
-    },
-    {
-      text: "Blog",
-      url: "https://blog.siwu.cc",
     },
   ],
 };
